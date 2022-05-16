@@ -32,5 +32,5 @@ check npm
 
 create $ENVFILE
 
-npm install -g .
+sudo npm install -g .
 echo "leetcode-cli successfully installed."

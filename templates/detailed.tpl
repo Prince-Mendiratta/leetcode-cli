@@ -13,4 +13,5 @@ ${comment.line} Testcase Example:  ${testcase}
 ${comment.line}
 {{ desc.forEach(function(x) { }}${comment.line} ${x}
 {{ }) }}${comment.end}
+${includes}
 ${code}
